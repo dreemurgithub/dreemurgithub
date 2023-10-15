@@ -7,5 +7,8 @@
 - Javascript, for the sheer amount of things I can create with that.
 - Seriously, the amount of thing to create from Js is kinda insane to me. I build a chess app, a server, an excell script, and they make me some good money. Apparently I can train AI with it too.
 - Maybe someday when I was unemployed, I'd spend sometime learning about Google Tensor Flow, but rightnow I have tons of stuff to learn about coding in an enterprise enviroment.
-## Some certificate
+## Some certificate and job related
 - [Cs50 from Harvard](https://certificates.cs50.io/317bffe1-c975-40da-9f31-1a8cdfe1850f.pdf?size=letter)
+- [Linkein](https://www.linkedin.com/in/%C4%91%E1%BA%A1t-l%C3%AA-8a513a97/)
+- [Funix Fullstack Developer](#)
+- [FreeCodeCamp](#)
